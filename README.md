@@ -6,4 +6,7 @@ Learning how to use Apollo Client's GraphQL with React
 - Rick and Morty API Playground 
     - https://rickandmortyapi.com/graphql 
 
+How to start
 - npx create-react-app react-graphql
+- npm install @apollo/client graphql
+- npm audit fix --force //optional
