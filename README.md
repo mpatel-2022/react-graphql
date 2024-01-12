@@ -10,6 +10,9 @@ How to start on MacOS
 - npx create-react-app react-graphql
 - npm install @apollo/client graphql
 - npm audit fix --force //optional
+- npm add react-router-dom
+- npm install react-router
+
 
 To run application 
 - npm start or yarn start
